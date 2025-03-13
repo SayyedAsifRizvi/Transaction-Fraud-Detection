@@ -50,7 +50,7 @@ upcoming!
 
 ## Tableau
 To provide further insight issue of fraudulent transactions, we exported our clean dataset of 111,144 to Tableau. Using Tableau, we crafted a series of visuals and interactive dashboards to delve deeper into the complexities surrounding fraud detection.<br>
-</br>Access to Tableau Dashboard: [Tableau Dashboard Link](https://public.tableau.com/app/profile/nicholai.shaw/viz/FraudulentTransactions_17096911116960/Story)
+</br>Access to Tableau Dashboard: [Tableau Dashboard Link](https://public.tableau.com/app/profile/sayyed.asifb.rizvi/viz/fraud-detection-visuals-tableau-workbook/Story)
 
 ## References
 *New FTC data show consumers reported losing nearly $8.8 billion to scams in 2022*. (2023, February 2023). Federal Trade Commission. Retrieved November 29, 2023, from https://www.ftc.gov/news-events/news/press-releases/2023/02/new-ftc-data-show-consumers-reported-losing-nearly-88-billion-scams-2022
